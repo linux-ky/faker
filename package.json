@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "npm install",
-    "start": "node http_server.js",
+    "start": "node http_server.js"
   },
   "repository": {
     "type": "git",
